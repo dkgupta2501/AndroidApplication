@@ -26,6 +26,11 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.1.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-beta4'
-    testCompile 'junit:junit:4.12'
     compile 'com.intuit.sdp:sdp-android:1.0.4'
+    testCompile 'junit:junit:4.12'
+    compile 'gr.escsoft.michaelprimez.searchablespinner:SearchableSpinner:1.0.8'
+    compile 'com.joanzapata.iconify:android-iconify-material:2.2.2'
+    compile 'com.android.support:design:25.1.0'
+    compile 'com.facebook.stetho:stetho:1.4.1'
+    compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
 }
